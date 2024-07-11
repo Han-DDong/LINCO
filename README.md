@@ -23,8 +23,9 @@ Bootstrap, org.json 라이브러리, AJAX, GRADLE, Spring Security, Spring Boot,
 버전관리 : Git, Github
 https://github.com/yehyeonn/LINCO2.git
 ─────────────────────────
-발표영상:    • 소셜라이징 서비스 - NULL NULL 팀  
-화면영상:    • 화면] 소셜라이징 서비스 - NULL NULL 팀  
+발표영상: https://www.youtube.com/watch?v=uAcB5QpwwuA&list=PLedGoSru7949vE2KofRZ2Vg4aINCrD_jQ&index=6
+
+화면영상: https://www.youtube.com/watch?v=PTivSCbApKk&t=0s 
 ─────────────────────────
 코리아IT아카데미 http://gangnam.koreaisacademy.com/
 ●과정명:  (디지털컨버전스) 공공데이터를 융합한 자바기반 Spring 웹개발자 양성과정
